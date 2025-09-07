@@ -1,0 +1,30 @@
+#the mod name as displayed in-game
+displayName: "AutoPump"
+
+#the internal name of your mod
+name: "AutoPump"
+
+#your name
+author: "Kashkinzey"
+
+#the fully qualified main class of the mod
+main: "example.ExampleJavaMod"
+
+#the mod description as seen in the mod dialog
+description: "Автоматически ставит помпы на воде и выводит мостовыми трубопроводами. Я читаю каждый кометрарий на github"
+
+#the mod version
+version: 0.0.1.3
+
+#the minimum game build required to run this mod
+minGameVersion: 150
+
+#this is a java mod
+java: true
+
+repo: Kashkinzey/AutoPump
+
+hidden: true
+
+
+
